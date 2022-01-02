@@ -1,3 +1,3 @@
 ## rsschool-cv
-https://KateBaranouskaya.github.io/rsschool-cv/cv 
+https://KateBaranouskaya.github.io/rsschool-cv/
 
