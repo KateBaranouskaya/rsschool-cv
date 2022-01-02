@@ -27,14 +27,6 @@ Hi, guys. I am just student of RS school. For me it is so unpredictable to parti
 
 <input type="text">
 <br>
-<input type="text">
-<br>
-<select multiple>
-          <option> gfjndk</option>
-          <option> ghjhfdkl</option>   
-
-<button>Отправить</button>
-        </form>
 ```
 ## **Skills**
 ***
